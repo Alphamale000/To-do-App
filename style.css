@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  width: 600px;
+  text-align: center;
+  border: 1px solid lightskyblue;
+  border-radius: 8px;
+  margin: auto;
+}
+.todo {
+  margin: 10px;
+}
+#inside-page {
+  display: none;
+}
+button {
+  margin: 10px;
+}
